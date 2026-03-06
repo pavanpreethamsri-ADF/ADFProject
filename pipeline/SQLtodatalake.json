@@ -18,7 +18,7 @@
 					"source": {
 						"type": "AzureSqlSource",
 						"sqlReaderQuery": {
-							"value": "select * from dbo.FactBooking",
+							"value": "select * from dbo.FactBookings",
 							"type": "Expression"
 						},
 						"queryTimeout": "02:00:00",
