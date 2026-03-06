@@ -1,0 +1,9 @@
+{
+	"name": "Preethampavandatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa760043-a5c5-402c-8de5-7f69c0c2fd84",
+		"tenantId": "31db5246-ae1c-4fcc-ad5e-c4d51b6624b3"
+	}
+}
